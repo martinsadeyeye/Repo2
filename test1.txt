@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A6F2-F414
-
- Directory of C:\Users\ADEYEYE\Desktop\MyProject
-
-04/26/2018  07:50 AM    <DIR>          .
-04/26/2018  07:50 AM    <DIR>          ..
-04/26/2018  07:50 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  442,064,650,240 bytes free
+change 1
